@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Blue&gt;Green&gt;Yellow&gt;Red_copy_copy</name>
+            <uuid>{091c149a-d9e3-453b-ac0a-914d6248b04d}</uuid>
+            <absolute>0</absolute>
+        </Properties>
+        <Data>
+            <step r="255" g="0" b="0" pos="0"/>
+            <step r="255" g="255" b="0" pos="0.16666666"/>
+            <step r="0" g="255" b="0" pos="0.33333333"/>
+            <step r="0" g="255" b="255" pos="0.5"/>
+            <step r="0" g="0" b="255" pos="0.66666666"/>
+            <step r="255" g="0" b="255" pos="0.83333333"/>
+            <step r="255" g="0" b="0" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>
